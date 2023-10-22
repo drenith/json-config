@@ -1,4 +1,4 @@
 {
-  "repo": "pattern1",
-  "repo2": "pattern2"
+  "org.springframework.test": "drenith/github-jwt-token",
+  "org.springframework.nottest": "drenith/github-some-other-repo"
 }
